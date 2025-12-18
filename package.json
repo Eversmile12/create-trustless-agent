@@ -1,6 +1,6 @@
 {
     "name": "create-8004-agent",
-    "version": "1.0.68",
+    "version": "1.0.69",
     "description": "CLI to scaffold ERC-8004 compliant AI agents with A2A, MCP, and x402 support",
     "type": "module",
     "bin": {

@@ -70,9 +70,9 @@ my-agent/
 
 ### Solana
 
-| Network | Program ID                                    |
-| ------- | --------------------------------------------- |
-| Devnet  | `HvF3JqhahcX7JfhbDRYYCJ7S3f6nJdrqu5yi9hyTREp` |
+| Network | Program ID                                     |
+| ------- | ---------------------------------------------- |
+| Devnet  | `HvF3JqhahcX7JfhbDRYYCJ7S3f6nJdrqu5yi9shyTREp` |
 
 ## Generated Project Usage
 
